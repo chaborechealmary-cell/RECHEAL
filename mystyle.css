@@ -6,3 +6,5 @@ a{text-decoration-line: none;color: red;}
 .marvo{margin-left: 40px;color: white;}
 .mybutton{margin-right: 50px;}
 button{border-radius: 100px;padding: 20px;}
+.change{height: 150px;width: 200px;}
+.change img{height: 100%;width: auto;}

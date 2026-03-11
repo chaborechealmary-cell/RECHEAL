@@ -1,5 +1,8 @@
 .navbar{background-color: blue; padding: 30px; display: flex; justify-content: space-between; border-radius: 40px;}
 a{text-decoration-line: none;color: red;}
 .mylistitems{list-style: none;}
-.good{display: flex; gap: 20px;}
-.logo{height: 150px;width: auto;}
+.good{display: flex; gap:100px;}
+/* .logo{height: 150px;width: auto;} */
+.marvo{margin-left: 40px;color: white;}
+.mybutton{margin-right: 50px;}
+button{border-radius: 100px;padding: 20px;}

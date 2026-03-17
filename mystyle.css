@@ -10,3 +10,18 @@ button{border-radius: 100px;padding: 20px;}
 .change img{height: 100%;width: auto;}
 .mary img{height: 100%;width: auto;}
 .menu img{height: 100%;width: auto;}
+/* .grinz{display: flex;margin-left:20px;text-align: left;padding: 20px;justify-content:20px;} */
+.newstyle{display: flex;margin-right: ;40px; text align :left; justify content: 20px;gap:40px;max width: 40px;padding: 20px;}
+.contacts{ margin-right: 20px;justify-content: 30px;}
+/* .manage{} */
+/* body{background-color:rosybrown ;} */
+main{background-color:cornsilk;}
+.come{display: flex;gap: 20px;}
+/* .school{margin-right: 50px;display: flex;gap: 70px;} */
+/* .buttons{} */
+/* .mary{background-color: aliceblue;border-radius: 40px;box-shadow: 20px;} */
+.come{background-color: aliceblue ;box-shadow: 20px 20px;padding: 20px;}
+.quote{padding: 30px;font-style: italic;font-size: 30pt;color: brown;font-weight: bold;}
+.education{text-align: center;}
+.school{text-align: center;}
+/* .experince{text-decoration: double;text-shadow: 1000px;} */

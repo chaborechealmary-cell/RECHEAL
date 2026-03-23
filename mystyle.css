@@ -25,3 +25,13 @@ main{background-color:cornsilk;}
 .education{text-align: center;}
 .school{text-align: center;}
 /* .experince{text-decoration: double;text-shadow: 1000px;} */
+@media( max-width: 768px){
+    .newstyle{
+        display: grid;
+        grid-template-columns: ifr;
+    }
+    .mylinks{
+        display: none;
+    }
+}
+    

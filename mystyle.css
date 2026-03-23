@@ -28,10 +28,14 @@ main{background-color:cornsilk;}
 @media( max-width: 768px){
     .newstyle{
         display: grid;
-        grid-template-columns: ifr;
+        grid-template-columns: 1fr;
     }
     .mylinks{
         display: none;
+    }
+    .mary{
+        display: grid;
+        grid-template-columns: 1fr;
     }
 }
     
